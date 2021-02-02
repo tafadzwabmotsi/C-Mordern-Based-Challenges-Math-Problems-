@@ -1,0 +1,14 @@
+﻿  Main.cpp
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(67,19): warning C4018: '<=': signed/unsigned mismatch
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(111,23): warning C4018: '<': signed/unsigned mismatch
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(122,34): warning C4018: '<=': signed/unsigned mismatch
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(126,17): warning C4018: '>': signed/unsigned mismatch
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(190,31): warning C4018: '<': signed/unsigned mismatch
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(203,25): warning C4018: '<=': signed/unsigned mismatch
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(230,34): warning C4018: '<': signed/unsigned mismatch
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(353,43): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(371,15): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(371,34): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(373,19): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Modules.h(374,28): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+  Main.vcxproj -> G:\dell\Documents\C++ Challenges Based Programming\Math Problems\Main\Debug\Main.exe
